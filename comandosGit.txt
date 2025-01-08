@@ -1,0 +1,12 @@
+git init - comenzar un repositorio
+git push 
+git pull origin "main" - Trae los cambios realizados de una rama en el servidor a tu repositorio local
+git clone "url del repositorio" - Clona el repositorio en tu computadora
+git commit -m "Esto es un commit" -Comitea los archivos que se hayan agregado previamente
+git Branch - muestra las ramas existentes
+git Branch "nombre1" - crea una nueva rama llamada nombre1
+git Branch -m "nombre1" "nombre2- Cambia el nombre de la rama de nombre1 a nombre2
+git checkout "nombre2" - Cambia de la rama actual a la rama nombre2
+git Branch -d "nombre2" Elimina la rama nombre2
+git status - muestra el estado de los cambios realizados
+git add - agrega los cambios realizados listos para ser comiteados
