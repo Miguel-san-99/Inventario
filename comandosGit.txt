@@ -1,3 +1,9 @@
+----CONFIGURACION INICIAL----
+
+Git config --global user.name
+Git config --global user.email
+
+----COMANDOS-----
 git init - comenzar un repositorio
 git push -u origin rama1 - Sube los cambios realizados al servidor
 git pull origin "main" - Trae los cambios realizados de una rama en el servidor a tu repositorio local
