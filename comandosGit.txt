@@ -10,3 +10,4 @@ git checkout "nombre2" - Cambia de la rama actual a la rama nombre2
 git Branch -d "nombre2" Elimina la rama nombre2
 git status - muestra el estado de los cambios realizados
 git add - agrega los cambios realizados listos para ser comiteados
+esto lo edite en github
